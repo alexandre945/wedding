@@ -19,6 +19,7 @@
                           na parquia da Cidade de São Lourenço e Vocẽ é nossos convidado Especial 
                      </p>
                      <a href="{{ route('lovestore')}}">love store</a>
+                   
               </div>
  
         </div>

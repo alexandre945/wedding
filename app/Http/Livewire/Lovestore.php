@@ -6,6 +6,7 @@ use Livewire\Component;
 
 class Lovestore extends Component
 {
+   
     public function render()
     {
         return view('livewire.lovestore');
