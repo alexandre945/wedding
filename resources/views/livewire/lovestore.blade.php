@@ -1,7 +1,7 @@
 <div>
    <div class="container">
       <div class="card">
-         <h2>Love store</h2>
+         <h1>Love store</h1>
          <span class="p-2 d-inline-block ">Se Conheceram em huma manhã no dia 15 Janeiro de 2020,
             na aconchegante Cidade de São Lourenço MG,sem saberem que naquele 
             momento estavam conhecendo um Amor verdadeiro, e que trẽs anos mais tarde estariam se 
@@ -71,15 +71,21 @@
          data-bs-slide-to="8"
          aria-label="Slide 9"
          ></button>
+         <button
+         type="button"
+         data-bs-target="#carouselExampleCaptions"
+         data-bs-slide-to="9"
+         aria-label="Slide 10"
+         ></button>
       </div>
       <div class="carousel-inner relative w-full overflow-hidden">
-         <div class="carousel-item active relative float-left w-full bg bg-info"data-bs-interval="10000">
+         <div class="carousel-item active relative float-left w-full bg bg-info">
             <img
-            src="{{asset ('./image/noivos.jpg')}}"
-            class="block w-full h-full border border-primary border border-2 p-1 rounded-pill"
+            src="{{asset ('./image/casa.jpg')}}"
+            class="block w-full h-full border border-primary border border-1 rounded "
             alt="..."
             />
-            <div class="carousel-caption  md:block  absolute text-center">
+            <div class="carousel-caption hidden md:block  absolute text-center">
             <h5 class="text-xl">Foto do Noivado</h5>
             <p>Dando um passo importante para concretização de um sonho juntos</p>
             </div>
@@ -87,7 +93,7 @@
          <div class="carousel-item relative float-left w-full bg bg-secondary"data-bs-interval="10000">
             <img
             src="{{ asset('./image/avioes.jpg')}}"
-            class="block w-full h-auto border border-primary border border-2 p-2 rounded-pill"
+            class="block w-full h-auto border border-primary border border-1 rounded "
             alt="..."
             />
             <div class="carousel-caption hidden md:block absolute text-center">
@@ -98,7 +104,7 @@
          <div class="carousel-item relative float-left w-full bg bg-primary">
             <img
             src="{{ asset('./image/shopinglove.jpg')}}"
-            class="block w-full border border-primary border border-2 p-2 rounded-pill"
+            class="block w-full border border-primary border border-1 rounded "
             alt="..."
             />
             <div class="carousel-caption hidden md:block absolute text-center">
@@ -109,7 +115,7 @@
          <div class="carousel-item relative float-left w-full bg bg-success">
             <img
             src="{{ asset('./image/oasis.jpg')}}"
-            class="block w-full border border-primary border border-2 p-2 rounded-pill"
+            class="block w-full border border-primary border border-1 rounded "
             alt="..."
             />
             <div class="carousel-caption hidden md:block absolute text-center">
@@ -120,7 +126,7 @@
          <div class="carousel-item relative float-left w-full bg bg-success">
             <img
             src="{{ asset('./image/oasis2.jpg')}}"
-            class="block w-full border border-primary border border-2 rounded-pill"
+            class="block w-full border border-primary border border-1 rounded"
             alt="..."
             />
             <div class="carousel-caption hidden md:block absolute text-center">
@@ -131,7 +137,7 @@
          <div class="carousel-item relative float-left w-full bg bg-success">
             <img
             src="{{ asset('./image/baloes.jpg')}}"
-            class="block w-full border border-primary border border-2 rounded-pill"
+            class="block w-full border border-primary border border-1 rounded"
             alt="..."
             />
             <div class="carousel-caption hidden md:block absolute text-center">
@@ -142,7 +148,7 @@
          <div class="carousel-item relative float-left w-full bg bg-primary">
             <img
             src="{{ asset('./image/lambari.jpg')}}"
-            class="block w-full border border-primary border border-2 rounded-pill"
+            class="block w-full border border-primary border border-1rounded "
             alt="..."
             />
             <div class="carousel-caption hidden md:block absolute text-center">
@@ -153,7 +159,7 @@
          <div class="carousel-item relative float-left w-full bg bg-info">
             <img
             src="{{ asset('./image/padaria.jpg')}}"
-            class="block w-full border border-primary border border-2 rounded-pill"
+            class="block w-full border border-primary border border-1 rounded"
             alt="..."
             />
             <div class="carousel-caption hidden md:block absolute text-center">
@@ -164,7 +170,18 @@
          <div class="carousel-item relative float-left w-full bg bg-secondary">
             <img
             src="{{ asset('./image/inverno.jpg')}}"
-            class="block w-full border border-primary border border-2 rounded-pill"
+            class="block w-full border border-primary border border-1 rounded "
+            alt="..."
+            />
+            <div class="carousel-caption hidden md:block absolute text-center">
+            <h5 class="text-xl">Third slide label</h5>
+            <p>Some representative placeholder content for the third slide.</p>
+            </div>
+         </div>
+         <div class="carousel-item relative float-left w-full bg bg-secondary">
+            <img
+            src="{{ asset('./image/amor.jpeg')}}"
+            class="block w-full border border-primary border border-1 rounded"
             alt="..."
             />
             <div class="carousel-caption hidden md:block absolute text-center">

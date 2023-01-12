@@ -1,27 +1,37 @@
 <div>
     <div class="container">
         <div class="card">
-              <h2>Valdinéia & Alexandre</h2>
-              
-              <div class="d-flex">
-                 <span>Convidam para seu Casamento</span>
-                 <div class="father">
-                     <h3>País da Noiva</h3>
-                     <p>D. Catarína da Costa</p>
-                     <p>Sr Nelson da Costa</p>
-                 </div>
-                 <div class="mother">
-                     <h3>País do Noivo</h3>
-                     <p>D. Benedita de Sousa</p>
-                     <p>Sr Antônio Ramos <span class="material-symbols-outlined"> favorite </span></p>
-                 </div>
-                     <p class="data">Onde os Noivos No proximo dia 25 de Abril de 2023, as 13:00 hs Receberão as bençãos
-                          na parquia da Cidade de São Lourenço e Vocẽ é nossos convidado Especial 
-                     </p>
-                     <a href="{{ route('lovestore')}}">love store</a>
-                   
-              </div>
- 
+            <strong class="text-center mb-1">“Portanto deixará o homem a seu pai e a sua mãe, e unir-se-á a 
+            sua mulher, e serão uma só carne.” – Gênesis 2.24</strong>
+             <p class="">
+             </p>
+             <span class="text-center p-5">Com a benção de Deus e nossos Pais :</span>
+             <div class="flex">
+                <div class="father">
+                    <p>D.Catarína da Costa</p>
+                    <p>Sr Nelson da Costa</p>
+                </div>
+                <div class="mother">
+                    <p>D. Benedita de Sousa</p>
+                    <p>Sr Antônio Ramos <span class="material-symbols-outlined"> favorite </span></p>
+                </div>
+             </div>
+             <h2 class="mt-1">Valdinéia & Alexandre</h2>
+             <p class="text-center">
+                Convidam para o seu casamento religioso<br>
+                Dia 28 de Abril de 2023 as 11:00<br>
+                A Cerimonia será realizada na paróquia bom Senhor
+                na Cidade de São Lourenço MG
+             </p>
+             <span class="text-center">
+                Um casamento perfeito é feito de duas pessoas<br>
+                imperfeitas que se recusam a desistir um do outro.
+             </span>
+             <br>
+             <br>
+           
+             <a class="link" href="{{ route('lovestore')}}">love store</a>
         </div>
+        
     </div>
 </div>
