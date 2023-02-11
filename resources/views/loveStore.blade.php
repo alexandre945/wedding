@@ -10,22 +10,18 @@
     <title>Love Store</title>
     @livewireStyles
     <style>
-
-        
            body {
             font-family: 'Dancing Script', cursiva;
-        }
-            .container {
-        text-align: center;
-        margin: 10px;
-    }
+            }
+  
     .image {
         padding: 5px, 8px;
         margin: 20px;
-    }
+        }
     span {
         font-size: 23px;
-    }
+        }
+        
     </style>
 </head>
 <body>

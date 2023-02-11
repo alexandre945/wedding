@@ -1,7 +1,7 @@
 <div>
    <div class="container">
       <div class="card">
-         <h1>Love store</h1>
+         <h1 class="text-center h1">Love store</h1>
          <span class="p-2 d-inline-block ">Se Conheceram em huma manhã no dia 15 Janeiro de 2020,
             na aconchegante Cidade de São Lourenço MG,sem saberem que naquele 
             momento estavam conhecendo um Amor verdadeiro, e que trẽs anos mais tarde estariam se 
@@ -12,7 +12,7 @@
             suas vidas juntos como uma só carne,encerrando ciclo e começando uma nova vida como um casal,com seus 
             Planos com seus Sonhos,um ajudando o outro para que os dois possam crecer juntos.    
         </span>
-      <p>Alguns momentos do casal</p>
+      <p class="text-center h1">Alguns momentos do casal</p>
         <div id="carouselExampleCaptions" class="carousel slide relative" data-bs-ride="carousel">
       <div class="carousel-indicators hidden absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
          <button
@@ -209,8 +209,7 @@
          <span class="visually-hidden">Next</span>
       </button>
       </div>
-
-            {{-- <a href="{{ route('lovestore')}}">Lista de Convidados</a> --}}
+      <a href="{{route('message')}}"><button class="p-4 text-center">DEIXE UMA MENSAGEM PARA O NOIVOS</button></a>
             </div>
          </div>
 </div>

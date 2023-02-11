@@ -10,6 +10,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap" rel="stylesheet">
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
         <!-- Styles -->
         <style>
              @import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap');
@@ -25,52 +26,22 @@
                 }
             body {
                 font-family: 'Sofia Sans Extra Condensed', sans-serif;
-
-                background-image: url('/image/imageback.jpg');
-                background-size: 100vw; 
-                background-repeat: no-repeat;
+                font-size: 30px;
+                background-image: url('/image/joia.jpg');
+                background-size: cover; 
                 float: left;
                 padding: 2px;
                 background-position-x: center;
-            }
-           .container {
-            text-align: center;
-            font-size: 28px;
-           }
-           .flex {
-            display: flex;
-           
-            text-align: center;
-          
-           }
-           .father {
-            padding-right: 8px;
-            margin-left: 20px;
-            margin-top: 15px;
             
-           }
-           .mother {
-            padding-left: 10px;
-            margin-right: 10px;
-            margin-top: 15px;
-           }
-           p {
-            font-size: 26px;
-            margin-top: 1px;
-            margin-bottom: 10px;
-           }
-           h2 {
-          
-            font-family: 'Monsieur La Doulaise', cursive;
-           }
-           a {
-            margin-top: 20px;
-           }
-           span {
-            margin-bottom: 8px;
-           
-           }
-
+            }
+            img {
+                opacity: 2.5;
+            }
+            h2 {
+                font-size: 40px;
+                
+            }
+       
         </style>
 
 
@@ -78,5 +49,6 @@
     <body class="antialiased">
       @livewire('wedding');
       @livewireScripts
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
     </body>
 </html>
