@@ -12,9 +12,7 @@
     <title>Menssage</title>
     @livewireStyles
     <style>
-    .error {
-            color:red;
-        }
+  
         body {
             font-family: 'Archivo Narrow', sans-serif;
             font-size: 20px;
