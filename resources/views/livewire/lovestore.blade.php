@@ -1,12 +1,12 @@
 <div>
    <div class="container">
       <div class="card">
-         <h1 class="text-center h1">Love store</h1>
+         <h1 class="text-center h1">Love story</h1>
          <span class="p-2 d-inline-block ">Se Conheceram em huma manhã no dia 15 Janeiro de 2020,
             na aconchegante Cidade de São Lourenço MG,sem saberem que naquele 
             momento estavam conhecendo um Amor verdadeiro, e que trẽs anos mais tarde estariam se 
             Casando;<br>
-            -Ela de São Lourenço ele de Jesuãnia  uma distância que não atrapalhou e nen 
+            -Ela de São Lourenço ele de Jesuãnia  uma distância que não atrapalhou e nem
             diminuiu o sentimento dos dois,uma distância,que só fez aumentar a saudade e vontade
             de estar perto decidindo assim com as bençãos de seus País,deixando suas casas para viverem,
             suas vidas juntos como uma só carne,encerrando ciclo e começando uma nova vida como um casal,com seus 

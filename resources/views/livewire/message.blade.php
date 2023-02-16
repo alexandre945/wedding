@@ -68,7 +68,10 @@
                         </div>
                     @endforeach
             </div>
+            <div class="ml-12 mr-12 mb-5 mt-1">
                 {{$key->links()}}
+            </div>
+                
         </div>
     </div>
 </div>

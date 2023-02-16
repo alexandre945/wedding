@@ -1,4 +1,5 @@
 <div>
+    @include('layout.popup')
     <div class="container-fluid">
         <div class="container mt-5 justify-content-center;">
                     <div class="text-center">
@@ -28,7 +29,7 @@
                          </span>
                     </div>
                     <div class="text-center mt-2">
-                        <a href="{{ route('lovestore')}}">love store</a>
+                        <a href="{{ route('lovestore')}}">love story</a>
                     </div>
                     
         </div>
