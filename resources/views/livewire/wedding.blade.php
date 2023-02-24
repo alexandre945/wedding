@@ -1,5 +1,7 @@
 <div>
-    @include('layout.popup')
+    <div class="sm:ml-5 md:ml-10">
+        @include('layout.popup')
+    </div>
     <div class="container-fluid">
         <div class="container mt-5 justify-content-center;">
                     <div class="text-center">
@@ -16,11 +18,12 @@
                                     <p>Benedita de Sousa</p>
                                  </div>
                             </div>
+                         
                          <h2 class="text-center">Valdinéia & Alexandre</h2>
                          <p class="">
                             Convidam para o seu casamento religioso
                             Dia 29 de Abril de 2023 as 11:00,
-                            a Cerimonia será realizada na Igreja Matriz de São Lourenço Mártir,
+                            a Cerimônia será realizada na Igreja Matriz de São Lourenço Mártir,
                             Praça Frei Egídio de Assis 2 São Lourenço MG.
                          </p>
                          <span class="text">
