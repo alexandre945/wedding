@@ -209,8 +209,9 @@
             <span class="visually-hidden">Next</span>
          </button>
       </div>
-            <div class="text-center">
-               <a href="{{route('message')}}"><button class="p-4 ">DEIXE UMA MENSAGEM PARA O NOIVOS</button></a>
+            <div class="text-center pt-4">
+                  <STrong class="P-2"><p>SE DESEJAR ENVIAR UMA MENSAGEN PARA OS NOIVOS CLICK NESSE BUTÃO ABAIXO</p></STrong>
+               <a href="{{route('message')}}"><button class="mt-2 btn btn-primary">ESCREVER MENSAGENS</button></a>
             </div>
           
          </div>
