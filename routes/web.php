@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {return view('welcome');});
     
 
-Route::get('/store', function () {return view('loveStore');})->name('lovestore');
+Route::get('/story', function () {return view('loveStore');})->name('lovestore');
     
 
 Route::get('/Message',function () {return view('message');})->name('message');
