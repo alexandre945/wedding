@@ -8,9 +8,9 @@
             casando.<br>
             -Ela de São Lourenço ele de Jesuãnia  uma distância que não atrapalhou e nem
             diminuiu o sentimento dos dois,uma distância que só fez aumentar a saudade e vontade
-            de estar perto decidindo assim com as bençãos de seus país,deixando suas casas para viverem
+            de estar perto decidindo assim com as bençãos de seus país deixando suas casas para viverem
             suas vidas juntos encerrando ciclo de vida e começando uma nova vida como um casal com seus 
-            planos com seus sonhos um ajudando o outro para que os dois possam crecer juntos.    
+            planos, com seus sonhos um ajudando o outro para que os dois possam crescer juntos.    
         </span>
       <p class="text-center h1">Alguns momentos do casal</p>
         <div id="carouselExampleCaptions" class="carousel slide relative" data-bs-ride="carousel">
