@@ -14,7 +14,7 @@
             @include('layout.countdow')
             <p>Para o Casamento  </p>
             <span>de</span>
-            <h2>Aleandre & Valdinéia</h2>
+            <h2>Valdinéia & Aleandre</h2>
             <span>E você é nosso convidado Especial</span>
             <div class="img-fluid w-2 ml-2">
                 <img class="w-2" style="width:100px;border-radius:20px;"src="image/amor.jpeg" alt="foto do casal">

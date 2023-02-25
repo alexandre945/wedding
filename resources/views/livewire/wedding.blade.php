@@ -11,7 +11,7 @@
                             <div class="row text-center">
                                 <div class="col  mt-4">
                                     <p>Nelson Roque da Costa</p>
-                                    <p>Catarína da Costa</p>
+                                    <p>Catarina Peres da Costa</p>
                                 </div>
                                  <div class="col mt-4">
                                     <p>Antônio Ramos <span class="material-symbols-outlined"> favorite </span></p>
@@ -22,8 +22,8 @@
                          <h2 class="text-center">Valdinéia & Alexandre</h2>
                          <p class="">
                             Convidam para o seu casamento religioso
-                            Dia 29 de Abril de 2023 as 11:00 hs,
-                            a Cerimônia será realizada na Igreja Matriz de São Lourenço Mártir,
+                            dia 29 de Abril de 2023 as 11:00 hs,
+                            a cerimônia será realizada na Igreja Matriz de São Lourenço Mártir,
                             Praça Frei Egídio de Assis 2 São Lourenço MG.
                          </p>
                          <span class="text">
