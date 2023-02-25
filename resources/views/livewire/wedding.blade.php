@@ -22,9 +22,9 @@
                          <h2 class="text-center">Valdinéia & Alexandre</h2>
                          <p class="">
                             Convidam para o seu casamento religioso
-                            dia 29 de Abril de 2023 as 11:00 hs,
+                            dia 29 de Abril de 2023 as 11:00 hrs,
                             a cerimônia será realizada na Igreja Matriz de São Lourenço Mártir,
-                            Praça Frei Egídio de Assis 2 São Lourenço MG.
+                            Praça Frei Egídio de Assis 02 São Lourenço MG.
                          </p>
                          <span class="text">
                             "Um casamento perfeito é feito de duas pessoas
