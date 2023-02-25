@@ -5,12 +5,12 @@
          <span class="p-2 d-inline-block ">Se conheceram em uma manhã no dia 15 Janeiro de 2020
             na aconchegante cidade de São Lourenço MG,sem saberem que naquele 
             momento estavam conhecendo um Amor verdadeiro e que trẽs anos mais tarde estariam se 
-            casando;<br>
+            casando.<br>
             -Ela de São Lourenço ele de Jesuãnia  uma distância que não atrapalhou e nem
-            diminuiu o sentimento dos dois,uma distância,que só fez aumentar a saudade e vontade
-            de estar perto decidindo assim com as bençãos de seus país,deixando suas casas para viverem,
+            diminuiu o sentimento dos dois,uma distância que só fez aumentar a saudade e vontade
+            de estar perto decidindo assim com as bençãos de seus país,deixando suas casas para viverem
             suas vidas juntos encerrando ciclo de vida e começando uma nova vida como um casal com seus 
-            planos com seus sonhos,um ajudando o outro para que os dois possam crecer juntos.    
+            planos com seus sonhos um ajudando o outro para que os dois possam crecer juntos.    
         </span>
       <p class="text-center h1">Alguns momentos do casal</p>
         <div id="carouselExampleCaptions" class="carousel slide relative" data-bs-ride="carousel">
