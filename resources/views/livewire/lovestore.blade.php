@@ -2,7 +2,7 @@
    <div class="container">
       <div class="card">
          <h1 class="text-center h1">Love story</h1>
-         <span class="p-2 d-inline-block ">Se Conheceram em huma manhã no dia 15 Janeiro de 2020,
+         <span class="p-2 d-inline-block ">Se Conheceram em uma manhã no dia 15 Janeiro de 2020,
             na aconchegante Cidade de São Lourenço MG,sem saberem que naquele 
             momento estavam conhecendo um Amor verdadeiro, e que trẽs anos mais tarde estariam se 
             Casando;<br>
