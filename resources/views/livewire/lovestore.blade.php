@@ -77,118 +77,215 @@
             data-bs-slide-to="9"
             aria-label="Slide 10"
             ></button>
+            <button
+            type="button"
+            data-bs-target="#carouselExampleCaptions"
+            data-bs-slide-to="10"
+            aria-label="Slide 11"
+            ></button>
+            <button
+            type="button"
+            data-bs-target="#carouselExampleCaptions"
+            data-bs-slide-to="11"
+            aria-label="Slide 12"
+            ></button>
+            <button
+            type="button"
+            data-bs-target="#carouselExampleCaptions"
+            data-bs-slide-to="12"
+            aria-label="Slide 13"
+            ></button>
+            <button
+            type="button"
+            data-bs-target="#carouselExampleCaptions"
+            data-bs-slide-to="13"
+            aria-label="Slide 14"
+            ></button>
+            <button
+            type="button"
+            data-bs-target="#carouselExampleCaptions"
+            data-bs-slide-to="14"
+            aria-label="Slide 15"
+            ></button>
+            <button
+            type="button"
+            data-bs-target="#carouselExampleCaptions"
+            data-bs-slide-to="15"
+            aria-label="Slide 16"
+            ></button>
+            <button
+            type="button"
+            data-bs-target=""
+            data-bs-slide-to=""
+            aria-label="Slide "
+            ></button>
       </div>
       <div class="carousel-inner relative w-full overflow-hidden">
-         <div class="carousel-item active relative float-left w-full bg bg-info">
+         <div class="carousel-item active relative ms:w-full  ">
                <img
-               src="{{asset ('./image/casa.jpg')}}"
-               class="block w-full h-full border border-primary border border-1 rounded "
-               alt="..."
+               src="{{asset ('./image/love-1.jpg')}}"
+               class="block w-full h-auto border border-primary border border-1 rounded md:p-10"
+               alt="..."  
                />
                <div class="carousel-caption hidden md:block  absolute text-center">
-               <h5 class="text-xl">Foto do Noivado</h5>
-               <p>Dando um passo importante para concretização de um sonho juntos</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-secondary"data-bs-interval="10000">
                <img
-               src="{{ asset('./image/avioes.jpg')}}"
-               class="block w-full h-auto border border-primary border border-1 rounded "
+               src="{{ asset('./image/love-2.jpg')}}"
+               class="block w-full h-auto border border-primary border border-1 rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Areo Porto de São Lourenço</h5>
-               <p>Primeiro compeonato Brasileiro de areo modelismo</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-primary">
                <img
-               src="{{ asset('./image/shopinglove.jpg')}}"
-               class="block w-full border border-primary border border-1 rounded "
+               src="{{ asset('./image/love-3.jpg')}}"
+               class="block w-full border border-primary border border-1 rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Third slide label</h5>
-               <p>Some representative placeholder content for the third slide.</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-success">
                <img
-               src="{{ asset('./image/oasis.jpg')}}"
-               class="block w-full border border-primary border border-1 rounded "
+               src="{{ asset('./image/love-4.jpg')}}"
+               class="block w-full border border-primary border border-1 rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Third slide label</h5>
-               <p>Some representative placeholder content for the third slide.</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-success">
                <img
-               src="{{ asset('./image/oasis2.jpg')}}"
-               class="block w-full border border-primary border border-1 rounded"
+               src="{{ asset('./image/love-5.jpg')}}"
+               class="block w-full border border-primary border border-1 rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Third slide label</h5>
-               <p>Some representative placeholder content for the third slide.</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-success">
                <img
-               src="{{ asset('./image/baloes.jpg')}}"
-               class="block w-full border border-primary border border-1 rounded"
+               src="{{ asset('./image/love-6.jpg')}}"
+               class="block w-full border border-primary border border-1 rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Third slide label</h5>
-               <p>Some representative placeholder content for the third slide.</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-primary">
                <img
-               src="{{ asset('./image/lambari.jpg')}}"
-               class="block w-full border border-primary border border-1rounded "
+               src="{{ asset('./image/love-7.jpg')}}"
+               class="block w-full border border-primary border border-1rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Third slide label</h5>
-               <p>Some representative placeholder content for the third slide.</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-info">
                <img
-               src="{{ asset('./image/padaria.jpg')}}"
-               class="block w-full border border-primary border border-1 rounded"
+               src="{{ asset('./image/love-8.jpg')}}"
+               class="block w-full border border-primary border border-1 rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Third slide label</h5>
-               <p>Some representative placeholder content for the third slide.</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-secondary">
                <img
-               src="{{ asset('./image/inverno.jpg')}}"
-               class="block w-full border border-primary border border-1 rounded "
+               src="{{ asset('./image/love-9.jpg')}}"
+               class="block w-full border border-primary border border-1 rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Third slide label</h5>
-               <p>Some representative placeholder content for the third slide.</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
          <div class="carousel-item relative float-left w-full bg bg-secondary">
                <img
-               src="{{ asset('./image/amor.jpeg')}}"
-               class="block w-full border border-primary border border-1 rounded"
+               src="{{ asset('./image/love-10.jpg')}}"
+               class="block w-full border border-primary border border-1 rounded md:p-10"
                alt="..."
                />
                <div class="carousel-caption hidden md:block absolute text-center">
-               <h5 class="text-xl">Third slide label</h5>
-               <p>Some representative placeholder content for the third slide.</p>
+               <h5 class="text-xl"></h5>
+               <p></p>
                </div>
          </div>
+      <div class="carousel-item relative float-left w-full bg bg-secondary">
+            <img
+            src="{{ asset('./image/love-11.jpg')}}"
+            class="block w-full border border-primary border border-1 rounded md:p-10"
+            alt="..."
+            />
+            <div class="carousel-caption hidden md:block absolute text-center">
+            <h5 class="text-xl"></h5>
+            <p></p>
+            </div>
+      </div>
+      <div class="carousel-item relative float-left w-full bg bg-secondary">
+            <img
+            src="{{ asset('./image/love-12.jpg')}}"
+            class="block w-full border border-primary border border-1 rounded md:p-10"
+            alt="..."
+            />
+            <div class="carousel-caption hidden md:block absolute text-center">
+            <h5 class="text-xl"></h5>
+            <p></p>
+            </div>
+      </div>
+      <div class="carousel-item relative float-left w-full bg bg-secondary">
+            <img
+            src="{{ asset('./image/love-13.jpg')}}"
+            class="block w-full border border-primary border border-1 rounded md:p-10"
+            alt="..."
+            />
+            <div class="carousel-caption hidden md:block absolute text-center">
+            <h5 class="text-xl"></h5>
+            <p></p>
+            </div>
+      </div>
+      <div class="carousel-item relative float-left w-full bg bg-secondary">
+            <img
+            src="{{ asset('./image/love-14.jpg')}}"
+            class="block w-full border border-primary border border-1 rounded md:p-10"
+            alt="..."
+            />
+            <div class="carousel-caption hidden md:block absolute text-center">
+            <h5 class="text-xl"></h5>
+            <p></p>
+            </div>
+      </div>
+      <div class="carousel-item relative float-left w-full bg bg-secondary">
+            <img
+            src="{{ asset('./image/love-15.jpg')}}"
+            class="block w-full border border-primary border border-1 rounded md:p-10"
+            alt="..."
+            />
+            <div class="carousel-caption hidden md:block absolute text-center">
+            <h5 class="text-xl"></h5>
+            <p></p>
+            </div>
+      </div>
          </div>
          <button
             class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0"
