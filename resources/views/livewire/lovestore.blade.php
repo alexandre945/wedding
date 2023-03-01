@@ -306,11 +306,6 @@
             <span class="visually-hidden">Next</span>
          </button>
       </div>
-            <div class="text-centerr pt-4">
-                  <p>se desejar enviar uma mensagen para os noivos click neste botão abaixo</p>
-               <a href="{{route('message')}}"><button class="mt-2 btn btn-primary">ESCREVER MENSAGENS</button></a>
-            </div>
-          
          </div>
    </div>
 </div>
