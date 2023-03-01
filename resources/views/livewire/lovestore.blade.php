@@ -23,12 +23,12 @@
                aria-current="true"
                aria-label="Slide 1"
             ></button>
-            <button
+            {{-- <button
                type="button"
                data-bs-target="#carouselExampleCaptions"
                data-bs-slide-to="1"
                aria-label="Slide 2"
-            ></button>
+            ></button> --}}
             <button
                type="button"
                data-bs-target="#carouselExampleCaptions"
@@ -132,7 +132,7 @@
                <p></p>
                </div>
          </div>
-         <div class="carousel-item relative float-left w-full bg bg-secondary"data-bs-interval="10000">
+         {{-- <div class="carousel-item relative float-left w-full bg bg-secondary"data-bs-interval="10000">
                <img
                src="{{ asset('./image/love-2.jpg')}}"
                class="block w-full h-auto border border-primary border border-1 rounded md:p-10"
@@ -142,7 +142,7 @@
                <h5 class="text-xl"></h5>
                <p></p>
                </div>
-         </div>
+         </div> --}}
          <div class="carousel-item relative float-left w-full bg bg-primary">
                <img
                src="{{ asset('./image/love-3.jpg')}}"
