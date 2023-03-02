@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Message extends Model
 {
-    // protected $filable = ['name','kin','message'];
-    protected $guarded = [];
+    protected $filable = ['name','kin','message'];
+    // protected $guarded = [];
     use HasFactory;
 }
